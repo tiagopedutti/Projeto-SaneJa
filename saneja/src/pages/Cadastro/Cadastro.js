@@ -4,10 +4,7 @@ import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 
 import InputMask from 'react-input-mask';
-import {Link, useNavigate} from 'react-router-dom';
-import swal from 'sweetalert2';
-import validator from 'validator';
-import axios from 'axios';
+import {Link} from 'react-router-dom';
 
 function Cadastro() {
 
